@@ -12,7 +12,7 @@ Web KPU:<br>
 `https://pemilu2024.kpu.go.id/`<br>
 
 Disclaimer:<br>
-`Sumber informasi dan Data (API) di-maintain oleh masing-masing host/entity, perubahan data dan informasi diluar tanggung jawab author repository ini.`</br>
+`Sumber informasi dan/atau Data (API) di-maintain oleh masing-masing host/entity, perubahan data dan/atau informasi (API) diluar tanggung jawab author repository ini.`</br>
 
 
 ![telegram](https://github.com/tsulis/Pemilu-2024-Shell-Script-Telegram-Bot/assets/1165130/b4bbc02f-dd45-42c1-b0cb-4a3f7af172e7)<br>
