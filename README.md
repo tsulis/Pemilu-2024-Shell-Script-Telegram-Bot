@@ -5,8 +5,8 @@ Dependency: jq <br>
 `- Debian (or debian family) : sudo apt-get install jq`<br>
 
 Telegram Config:<br>
-BOT_TOKEN="YOUR_BOT_TOKEN"<br>
-CHAT_ID="YOUR_CHAT_ID"
+`BOT_TOKEN=`"YOUR_BOT_TOKEN"<br>
+`CHAT_ID=`"YOUR_CHAT_ID"
 
 Web KPU:<br>
 `https://pemilu2024.kpu.go.id/`<br>
